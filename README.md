@@ -1,6 +1,10 @@
 
 ## Lee con atención todo el material.
+Estos ejercicios no los desarrolle yo, pero considero que repasan basicamente javascript para ver si se tienen dudas respecto de los temas principales 
+como lo son bucles arreglos objetos y alguna herramientas mas.
 
+Intenten resolver lo mas que pueda despejen todas las dudas y no tengan miedo en preguntar ya que la cursada se situa totalmente en javascript,
+no contar con una buena base puede hacerles el inicio de cursada muy pesado, asi que tratemos de ayudarnos en hacerla mas amigable entre todos !!
 ---
 
 <br/>
