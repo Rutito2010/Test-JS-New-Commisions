@@ -67,7 +67,7 @@ git push origin main
 
 ### **😗 ¿Qué hay que hacer con el archivo package.json?**
 
-Absolutamente nada. Más adelante, cuando estés estudiando en el bootcamp aprenderás para qué sirve este archivo. Pero en este momento, no lo modifiques ni lo elimines, ya que es importante.
+Eviten tocar el package.json(Mas adelante en la cursada vamos a aprender que es y para que sirve, de momoento solo sigan las intrucciones)
 
 ---
 
