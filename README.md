@@ -56,7 +56,7 @@ npm test
 -  `06-07-08.js`
 -  `09.js`
 
-### **_4. Si qures podes subir el desafio para que te quede guardado en github, pero la idea es que encuentren donde tienen dificultades y resolverlas en las primeras instacias de la cursada**
+### **_4. Si qures podes subir el desafio para que te quede guardado en github, pero la idea es que encuentren donde tienen dificultades y resolverlas en las primeras instancias de la cursada**
 
 Si bien esta prueba es opcional y la entrega no es obligatoria, es muy importante que practiques este paso dado a que suele traer muchas dudas
 
@@ -71,7 +71,7 @@ git push origin main
 
 ### **😗 ¿Qué hay que hacer con el archivo package.json?**
 
-Eviten tocar el package.json(Mas adelante en la cursada vamos a aprender que es y para que sirve, de momoento solo sigan las intrucciones)
+Eviten tocar el package.json(Mas adelante en la cursada vamos a aprender que es y para que sirve, de momento solo sigan las intrucciones)
 
 ---
 
