@@ -1,4 +1,3 @@
-# Simulación de Henry Challenge para Practicar - JAVASCRIPT
 
 ## Lee con atención todo el material.
 
@@ -8,11 +7,11 @@
 
 ## **INTRODUCCIÓN**
 
-¡Bienvenid@ a esta prueba técnica 😁! En este repositorio encontrarás un modelo del Henry Challenge que podrás utilizar como autoevaluación, y así comprobar que estás listo para aprobar el Challenge.
 
-En este desafío técnico podrás practicar conceptos básicos sobre Javascript estudiados durante el Prep Course. El objetivo es que puedas chequear cuáles son tus conocimientos sólidos, y que conceptos podrías ajustar un poco más🤩.
 
-Encontrarás algunos ejercicios en los que se piden cosas puntuales que tal vez no vimos en el Prep Course, pero descuida, ¡porque es a propósito! Lo ideal es que comiences a pulir tus habilidades de investigación, ya que en el mundo de la programación Google es nuestro mejor amigo.
+Este desafío técnico es para repasar conceptos básicos sobre Javascript . El objetivo es que puedas chequear cuáles son tus conocimientos sólidos, y que conceptos podrías ajustar un poco más.
+
+Lo ideal es que comiences a pulir tus habilidades de investigación, ya que en el mundo de la programación Google es nuestro mejor amigo, tengan en cuenta que durante esta cursada nosotros brindamos las herramientas y funcionalidades basicas, normalmente con ellas se podran cumplir las entregas pero nunca esta de mas investigar y aportar lo propio.
 
 Es importante que puedas resolver todos los ejercicios que contiene este repositorio, así como también seguir todo el procedimiento a continuación.
 
@@ -24,9 +23,9 @@ Es importante que puedas resolver todos los ejercicios que contiene este reposit
 
 ### **_1. CLONAR_**
 
-El primer paso es clonar correctamente este repositorio en tu computadora. Para esto, te recomendamos crear una nueva carpeta (asegúrate de no utilizar la misma que el Prep Course). Si no recuerdas cómo clonar un repositorio, puedes revisarlo **[aquí](https://prep.soyhenry.com/primeros_pasos/)**.
+El primer paso es clonar correctamente este repositorio en tu computadora.
 
-Es importante que no hagas fork. El día del Challenge, los cambios subidos a un repositorio forkeado no serán válidos.
+Es importante que no hagas fork.
 
 ### **_2. INSTALAR DEPENDENCIAS Y CHEQUEAR TESTING_**
 
@@ -44,7 +43,6 @@ npm test
 
 ### **_3. RESOLVER LOS EJERCICIOS PROPUESTOS_**
 
-Tu tarea es que pasen la mayoría de los test, completando los siguientes archivos:
 
 -  `01.js`
 -  `02.js`
@@ -54,9 +52,9 @@ Tu tarea es que pasen la mayoría de los test, completando los siguientes archiv
 -  `06-07-08.js`
 -  `09.js`
 
-### **_4. ENTREGAR LA PRUEBA TÉCNICA_**
+### **_4. Si qures podes subir el desafio para que te quede guardado en github, pero la idea es que encuentren donde tienen dificultades y resolverlas en las primeras instacias de la cursada**
 
-Si bien esta prueba es opcional y la entrega no es obligatoria, es muy importante que practiques este paso dado a que suele traer muchas dudas y complicaciones el día del examen.
+Si bien esta prueba es opcional y la entrega no es obligatoria, es muy importante que practiques este paso dado a que suele traer muchas dudas
 
 Primero corre por última vez los test y verifica cuántos pasan para asegurarte de estar entregando todo correctamente. Luego tendrás que ejecutar los siguientes comandos desde tu terminal:
 
@@ -66,32 +64,6 @@ git commit -m ‘checkpoint commit’
 git push origin main
 
 ```
-
----
-
-<br />
-
-## **PREGUNTAS FRECUENTES**
-
-### **🤔 ¿Cuántas veces lo puedo completar?**
-
-¡Todas las que quieras! No hay límite.
-
-### **😦 ¿A quién o en dónde debo entregarlo una vez resuelto?**
-
-A nadie y en ningún lugar. Este material es para que puedas chequear tu mismo en qué situación te encuentras.
-
-### **🤨 ¿Qué sucede si no puedo avanzar en un ejercicio?**
-
-¡Descuida! No tienes tiempo límite para resolverlo. Por lo que puedes investigar en internet, volver a ver las clases del Prep Course e incluso repasar las homeworks que hayas completado.
-
-### **🤓 ¿Si luego de seguir investigando no puedo avanzar con un ejercicio?**
-
-Te recordamos que en slack podrás hacer consultas.
-
-### **😲 ¿Por qué cuando ejecuto el testing la terminal dice que mi PC se quedó sin memoria?**
-
-Lo más probable es que en tu código haya un bucle infinito, por lo que deberás revisarlo y buscar una solución.
 
 ### **😗 ¿Qué hay que hacer con el archivo package.json?**
 
@@ -125,14 +97,9 @@ Git config –global user.email "_aquí escribe tu email_"
 git push origin main
 
 ```
-
----
-
-<br />
-
 ## **DOCUMENTACIÓN**
 
-Te compartimos un poco de documentación para facilitarte algunas respuestas. ¡Pero puedes investigar en todos los lados que tu quieras!
+Info que pueden ayudar a resolver los desafios
 
 -  [String](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String)
 -  [Array](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)
@@ -140,8 +107,4 @@ Te compartimos un poco de documentación para facilitarte algunas respuestas. ¡
 -  [Class](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Classes)
 -  [Prototypes](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Object_prototypes)
 
----
 
-<br />
-
-## **💪¡MUCHA SUERTE!👊**
